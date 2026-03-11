@@ -49,7 +49,7 @@ resume_ai_analyzer/
 ├── .gitignore               
 ├── requirements.txt         
 ├── README.md                
-└── app.py                   # Главный файл веб-интерфейса Streamlit
+└── app.py                   
 ```
 
 ## Стек технологий
